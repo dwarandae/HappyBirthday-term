@@ -69,7 +69,7 @@ for _f in range(data_length/display_rate):
 	print (" "*(cols/2 - cake_size/2))+("-"*cake_size)
 
 	# print happy birthday message
-	os.system("figlet -c -f small Happy Birthday qwerty!")
+	os.system("figlet -c -f small Happy Birthday Jhon!")
 
 	# sleep to match with the audio
 	""" 
